@@ -1,5 +1,5 @@
 # collabo
 * 이정은
-* KimJiHyun
+* 김지현
 
 
